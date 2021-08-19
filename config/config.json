@@ -1,21 +1,18 @@
 {
   "development": {
     "username": "me",
-    "password": "legach00",
     "database": "sequelize_db",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "test": {
     "username": "me",
-    "password": "legach00",
     "database": "sequelize_db",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "production": {
     "username": "me",
-    "password": "legach00",
     "database": "sequelize_db",
     "host": "127.0.0.1",
     "dialect": "postgres"
